@@ -2,7 +2,7 @@
   "name": "go-templates-snippets",
   "displayName": "Go Templates Snippets for VSCode",
   "description": "This extension contains code snippets for Golang templates for the Visual Studio Code editor. It supports `.gotmpl`, `.html` and their file associations.",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "engines": {
 		"vscode": "^1.28.0"
   },
