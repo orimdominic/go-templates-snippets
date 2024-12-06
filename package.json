@@ -6,6 +6,7 @@
   "engines": {
 		"vscode": "^1.28.0"
   },
+  "icon": "assets/golang-templates-snippets.png",
   "categories": [
     "Snippets"
   ],

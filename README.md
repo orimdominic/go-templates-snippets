@@ -1,7 +1,5 @@
 # go-templates-snippets
 
-<!-- TODO add badges -->
-
 This extension contains code snippets for Golang templates for [Visual Studio Code][code] editor. Supports `.gotmpl`, `.html` and their file associations.
 
 ## Supported file extensions
@@ -12,6 +10,7 @@ This extension contains code snippets for Golang templates for [Visual Studio Co
 ## Snippets
 
 Below is a list of all available snippets.
+
 | Trigger  | Content |
 | -------: | ------- |
 | `tblock`   | `{{ block "name" pipeline }}`|
@@ -58,3 +57,5 @@ Added features X, Y, and Z.
 
 
 **Cheers!**
+
+<a target="_blank" href="https://icons8.com/icon/44442/golang">Golang</a> icon by <a target="_blank" href="https://icons8.com">Icons8</a>
