@@ -1,0 +1,24 @@
+{
+  "name": "go-templates-snippets",
+  "displayName": "go-templates-snippets",
+  "description": "",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.95.0"
+  },
+  "categories": [
+    "Snippets"
+  ],
+  "contributes": {
+    "snippets": [
+      {
+        "language": "gotmpl",
+        "path": "./snippets/snippets.code-snippets"
+      },
+      {
+        "language": "html",
+        "path": "./snippets/snippets.code-snippets"
+      }
+    ]
+  }
+}
