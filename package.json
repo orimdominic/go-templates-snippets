@@ -1,40 +1,45 @@
 {
-  "name": "go-templates-snippets",
-  "displayName": "Go Templates Snippets for VSCode",
-  "description": "This extension contains code snippets for Golang templates for the Visual Studio Code editor. It supports .go, .gotmpl, .html and their file associations.",
-  "version": "0.0.4",
-  "engines": {
-    "vscode": "^1.28.0"
-  },
-  "icon": "assets/images/golang-templates-snippets.png",
-  "categories": [
-    "Snippets"
-  ],
-  "publisher": "OrimDominic",
-  "author": {
-    "name": "Orim Dominic",
-    "email": "orimdominic@gmail.com",
-    "url": "https://github.com/orimdominic"
-  },
-  "repository": {
-    "url": "https://github.com/orimdominic/go-templates-snippets",
-    "type": "git"
-  },
-  "license": "SEE LICENSE IN LICENSE",
-  "contributes": {
-    "snippets": [
-      {
-        "language": "gotmpl",
-        "path": "./snippets/snippets.code-snippets"
-      },
-      {
-        "language": "html",
-        "path": "./snippets/snippets.code-snippets"
-      },
-      {
-        "language": "go",
-        "path": "./snippets/snippets.code-snippets"
-      }
-    ]
-  }
+	"name": "go-templates-snippets",
+	"displayName": "Go Templates Snippets for VSCode",
+	"description": "This extension contains code snippets for Golang templates for the Visual Studio Code editor. It supports .go, .gotmpl, .html and their file associations.",
+	"version": "0.0.4",
+	"engines": {
+		"vscode": "^1.28.0"
+	},
+	"icon": "assets/images/golang-templates-snippets.png",
+	"categories": [
+		"Snippets",
+		"go-template",
+		"gotmpl",
+		"html",
+		"gohtml",
+		"go"
+	],
+	"publisher": "OrimDominic",
+	"author": {
+		"name": "Orim Dominic",
+		"email": "orimdominic@gmail.com",
+		"url": "https://github.com/orimdominic"
+	},
+	"repository": {
+		"url": "https://github.com/orimdominic/go-templates-snippets",
+		"type": "git"
+	},
+	"license": "SEE LICENSE IN LICENSE",
+	"contributes": {
+		"snippets": [
+			{
+				"language": "gotmpl",
+				"path": "./snippets/snippets.code-snippets"
+			},
+			{
+				"language": "html",
+				"path": "./snippets/snippets.code-snippets"
+			},
+			{
+				"language": "go",
+				"path": "./snippets/snippets.code-snippets"
+			}
+		]
+	}
 }
