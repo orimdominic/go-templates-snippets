@@ -9,11 +9,7 @@
 	"icon": "assets/images/golang-templates-snippets.png",
 	"categories": [
 		"Snippets",
-		"go-template",
-		"gotmpl",
-		"html",
-		"gohtml",
-		"go"
+		"Programming Languages"
 	],
 	"publisher": "OrimDominic",
 	"author": {
@@ -25,6 +21,16 @@
 		"url": "https://github.com/orimdominic/go-templates-snippets",
 		"type": "git"
 	},
+	"keywords": [
+		"snippets",
+		"go-template",
+		"gotmpl",
+		"html",
+		"gohtml",
+		"go",
+		"golang",
+		"productivity"
+	],
 	"license": "SEE LICENSE IN LICENSE",
 	"contributes": {
 		"snippets": [
